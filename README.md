@@ -22,7 +22,7 @@ track in a launching structure. If they touch it with their paws, it releases th
 
 This analysis is based on a fictional data, but with real background and situation.
 
-The coach of a fictitious Flyball* team (Wild Runners Flyball Team - shortly WRFT) contacted the 
+The coach of a fictitious Flyball team (Wild Runners Flyball Team - shortly WRFT) contacted the 
 Data Science Club to help him process his team's 2023 tournament results. 
 
 The analysis was made for the in-house competition of the [Data36.com](https://data36.com)
@@ -67,9 +67,9 @@ The datasets are available [here](https://github.com/scsizmaz/flyball/tree/main/
 * Data Analysis, Visualization with Machine Leraning
 * Feature Importance analysis with Machine learning
 * Optimization with Machine learning
-* Forecast Analysis with H2O Machine Leraning
+* Forecast Analysis with H2O Machine Learning
 
-### Technologies
+## Technologies
 * Python, Jupyter Notebook
 * Machine Learning
 
