@@ -62,6 +62,7 @@ The datasets are available [here](https://github.com/scsizmaz/flyball/tree/main/
 
 
 ## Methods Used
+
 * Data Cleaning
 * Basic Data Analysis
 * Data Analysis, Visualization with Machine Leraning
@@ -70,6 +71,7 @@ The datasets are available [here](https://github.com/scsizmaz/flyball/tree/main/
 * Forecast Analysis with H2O Machine Learning
 
 ## Technologies
+
 * Python, Jupyter Notebook
 * Machine Learning
 
