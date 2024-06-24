@@ -6,7 +6,8 @@
 ## Some words about the Flyball:
 
 <p align="center">
-  <img src="https://www.bing.com/ck/a?!&&p=10bb98225ace3afeJmltdHM9MTcxOTE4NzIwMCZpZ3VpZD0xMzVlNGY5Yy1hZjQyLTZlMzItMGQyNi01YjFjYWVlYjZmZjAmaW5zaWQ9NTQ4OQ&ptn=3&ver=2&hsh=3&fclid=135e4f9c-af42-6e32-0d26-5b1caeeb6ff0&psq=flyball+for+dogs&u=a1aHR0cHM6Ly93d3cuYXplbmt1dHlhbS5odS9lbGV0L2t1dHlhcy1zcG9ydC1mbHliYWxsLw&ntb=1" width="400"/>
+  <img src="
+https://wpcluster.dctdigital.com/myweekly/wp-content/uploads/sites/9/2019/08/dogfeatimage-978x624.jpg" width="400"/>
 </p>
 
 Flyball emerged in the late 1960s and early 1970s in California. Two teams compete against each other with 4-4 dogs. 
@@ -15,16 +16,16 @@ track in a launching structure. If they touch it with their paws, it releases th
  They also have to jump over four obstacles while running on the track, without knocking them down, of course. 
  They must get the ball back to where they started in as little time as possible. The next dog can start its own round
  after the previous one has crossed the start/finish line.
+ More information you find here [visit this Wikipedia page](https://en.wikipedia.org/wiki/Flyball)).
+
 
 
 ## Summary:
 
 This analysis is based on a fictional data, but with real background and situation.
 
-Flyball is a relay team competition for dogs where participants jump obstacles to retrieve a ball from a special box. The competitions are run in teams of four dogs, as a relay. If you want to know more information about the Flyball sprt, [visit this Wikipedia page](https://en.wikipedia.org/wiki/Flyball)).
-
 <p align="center">
-  <img src="https://www.bing.com/images/search?view=detailV2&ccid=gB%2bw9x1q&id=30F0F7EAD45E2295DAF9CF52A7AA0A2405079E11&thid=OIP.gB-w9x1qlHKLrHsPEQxN4AHaFf&mediaurl=https%3a%2f%2fwww.akc.org%2fwp-content%2fuploads%2f2019%2f08%2fSlide3.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.801fb0f71d6a94728bac7b0f110c4de0%3frik%3dEZ4HBSQKqqdSzw%26pid%3dImgRaw%26r%3d0&exph=1112&expw=1500&q=flyball+for+dogs&simid=608016831291351337&FORM=IRPRST&ck=61C16D4D37337A0ACEAB222589297217&selectedIndex=43&itb=0  https://www.bing.com/ck/a?!&&p=10bb98225ace3afeJmltdHM9MTcxOTE4NzIwMCZpZ3VpZD0xMzVlNGY5Yy1hZjQyLTZlMzItMGQyNi01YjFjYWVlYjZmZjAmaW5zaWQ9NTQ4OQ&ptn=3&ver=2&hsh=3&fclid=135e4f9c-af42-6e32-0d26-5b1caeeb6ff0&psq=flyball+for+dogs&u=a1aHR0cHM6Ly93d3cuYXplbmt1dHlhbS5odS9lbGV0L2t1dHlhcy1zcG9ydC1mbHliYWxsLw&ntb=1" width="400"/>
+  <img src="https://th.bing.com/th/id/OIP.gB-w9x1qlHKLrHsPEQxN4AHaFf?pid=ImgDet&w=60&h=60&c=7&rs=1" width="400"/>
 </p>
 
 The coach of a fictitious Flyball* team (Wild Runners Flyball Team - shortly WRFT) contacted the 
@@ -86,5 +87,4 @@ The datasets are available [here](https://github.com/scsizmaz/flyball/tree/main/
 
 ### Origanized by
 
-[Data36.com](https://data36.com)
-[dataklub.hu](https://dataklub.hu)
+[Data36.com](https://data36.com) and [dataklub.hu](https://dataklub.hu)
