@@ -6,8 +6,7 @@
 ## Some words about the Flyball:
 
 <p align="center">
-  <img src="
-https://wpcluster.dctdigital.com/myweekly/wp-content/uploads/sites/9/2019/08/dogfeatimage-978x624.jpg" width="400"/>
+  <img src="https://wpcluster.dctdigital.com/myweekly/wp-content/uploads/sites/9/2019/08/dogfeatimage-978x624.jpg" width="400"/>
 </p>
 
 Flyball emerged in the late 1960s and early 1970s in California. Two teams compete against each other with 4-4 dogs. 
@@ -19,14 +18,9 @@ track in a launching structure. If they touch it with their paws, it releases th
  More information you find here [visit this Wikipedia page](https://en.wikipedia.org/wiki/Flyball)).
 
 
-
 ## Summary:
 
 This analysis is based on a fictional data, but with real background and situation.
-
-<p align="center">
-  <img src="https://th.bing.com/th/id/OIP.gB-w9x1qlHKLrHsPEQxN4AHaFf?pid=ImgDet&w=60&h=60&c=7&rs=1" width="400"/>
-</p>
 
 The coach of a fictitious Flyball* team (Wild Runners Flyball Team - shortly WRFT) contacted the 
 Data Science Club to help him process his team's 2023 tournament results. 
